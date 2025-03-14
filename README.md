@@ -1,4 +1,4 @@
-# sync-pizzeria
+# Sync-Pizzeria
 Pizzeria script For Gabz MLO
 
 # Updates
